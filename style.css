@@ -38,7 +38,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  row-gap: 4rem;
+  row-gap: 1rem;
   box-shadow: 1px 0px 0px 3px white;
 }
 .title {
@@ -50,4 +50,12 @@ body {
   font-size: 10rem;
   font-weight: 600;
   color: green;
+}
+.low,
+.add {
+  font-size: 1rem;
+  background-color: #0c2b56;
+  color: #c3d2dc;
+  padding: 12px 10px;
+  border-radius: 10%;
 }
