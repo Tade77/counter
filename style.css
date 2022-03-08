@@ -52,10 +52,11 @@ body {
   color: green;
 }
 .low,
-.add {
+#add {
   font-size: 1rem;
   background-color: #0c2b56;
   color: #c3d2dc;
   padding: 12px 10px;
   border-radius: 10%;
+  cursor: pointer;
 }
